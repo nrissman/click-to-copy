@@ -37,4 +37,6 @@ img {
   padding: 0 20px;
 }
 
-
+.box {
+  height: 100vh;
+}
